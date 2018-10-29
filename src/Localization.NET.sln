@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Localization.NET", "Localization.NET\Localization.NET.csproj", "{ED34150C-F368-4747-8707-37F5D14DBE93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localization.Prototype", "Localization.Prototype\Localization.Prototype.csproj", "{E7A85E77-4A93-4189-8F44-1515B3569C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED34150C-F368-4747-8707-37F5D14DBE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED34150C-F368-4747-8707-37F5D14DBE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED34150C-F368-4747-8707-37F5D14DBE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED34150C-F368-4747-8707-37F5D14DBE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A85E77-4A93-4189-8F44-1515B3569C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A85E77-4A93-4189-8F44-1515B3569C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A85E77-4A93-4189-8F44-1515B3569C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A85E77-4A93-4189-8F44-1515B3569C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53CA720F-CC23-4390-8916-086FD9C90B83}
+	EndGlobalSection
+EndGlobal
