@@ -1,0 +1,19 @@
+slug: localization-net
+description: A simple experiment prototyping a concept for strongly typed language terms.
+project: workbench
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "prototype",
+    "experiment",
+    "demonstration",
+    "globalization-and-localization",
+    "code-generation",
+    "strongly-typed"
+  ]
